@@ -1,5 +1,5 @@
 #!/bin/bash
-#by uala
+#by przekorb
 
 #Colors#
 
