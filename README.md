@@ -1,7 +1,7 @@
 # commentfinder
 Script to pull comments and potentially leaky api's from multiple websites sources in pretty colours
 
-![comments](https://user-images.githubusercontent.com/94721201/142707360-233df372-c5b6-493b-89f0-6db97f00427b.png)
+![comments2](https://user-images.githubusercontent.com/94721201/142708639-3fe18f92-f97f-42d9-adf2-b65b84ff90f3.png)
 
 ## Summary
 
