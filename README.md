@@ -6,7 +6,7 @@ Script to pull comments and potentially leaky api's from multiple websites sourc
 ## Summary
 
 Once given a file with list of directories, it scans every record in search for comments or api's and prints them in pretty colours, so it's
-hard to miss clues in CTF's. <br />Supports html redirection.<br/>Works best with gobuster using -o option to output directory list, but any other tool would be good as long as directories are in first lines:<br/>
+hard to miss clues in CTF's. Supports html redirection.<br/><br />Works best with gobuster using -o option to output directory list, but any other tool would be good as long as directories are in first lines:<br/>
 ```
 /admin
 /assets
